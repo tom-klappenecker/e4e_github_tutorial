@@ -10,3 +10,6 @@ Section 4
 
 Section 5
 Kat made this change
+
+Section 6
+John made this section
